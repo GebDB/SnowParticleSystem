@@ -1,5 +1,5 @@
-Snow Particle System intended for use in WaxHeart.
+# Snow Particle System intended for use in WaxHeart.
 https://waxheart.info/
 
-Showcase:
+# Showcase:
 https://www.youtube.com/shorts/GIdMFwDQ72s
